@@ -1,0 +1,17 @@
+0: parrot - green
+1: deer - brown
+2:
+3:
+4: tiger - orange
+5:
+6:
+7: bee - yellow
+8:
+9: lion - gold  frog - green
+10: crow - black        bat - black
+11:
+12:
+13: swan - white
+14:
+15:
+16: bear - brown
